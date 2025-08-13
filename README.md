@@ -1,4 +1,3 @@
-
 # 🛒 Amazon Clone (HTML & CSS)
 
 This is a simple **Amazon Clone** created using **only HTML and CSS**.  
@@ -22,7 +21,7 @@ It replicates the **UI design** of the Amazon homepage, focusing on layout, colo
 
 ## 📂 Project Structure
 amazon-clone/
-│── index.html # Main HTML file
-│── style.css # Main CSS file
-│── images/ # Folder for images (logos, products, banners)
-└── README.md # Project documentation
+│── index.html # Main HTML file <br>
+│── style.css # Main CSS file<br>
+│── images/ # Folder for images (logos, products, banners)<br>
+└── README.md # Project documentation<br>
